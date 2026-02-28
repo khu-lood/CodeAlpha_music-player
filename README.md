@@ -1,3 +1,5 @@
+ https://khu-lood.github.io/CodeAlpha_music-player/
+
 # 🎵 JavaScript Music Player
 
 A fully functional and interactive Music Player built using pure HTML, CSS, and JavaScript.
