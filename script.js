@@ -1,15 +1,17 @@
 const songs = [
     {
-        name: "song1",
-        title: "hamud habibi",
-        artist: "Soft Artist",
-        cover: "images/cover1.jpg"
-    },
-    {
         name: "song2",
         title: "tab tabi tab",
         artist: "Chill Mood",
         cover: "images/cover2.jpg"
+    },
+    {
+        
+        name: "song1",
+        title: "hamud habibi",
+        artist: "Soft Artist",
+        cover: "images/cover1.jpg"
+        
     },
     {
         name: "song3",
